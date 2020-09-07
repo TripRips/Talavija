@@ -2,7 +2,7 @@
 ## Instalācija no nulles
 Ņemam sagatavo talavijas projektu no git klonējot esošo repo
 ``` markdown
-git clone https://git01.obvius.lv:10143/parkse-220620/talavija.git
+git clone ...
 ```
 Aizejam uz mapi, kur atrodas projekts
 ``` markdown
