@@ -1,4 +1,7 @@
 # Projekta sagatavošana
+
+Aleks Hartmanis
+
 ## Instalācija no nulles
 Ņemam sagatavo talavijas projektu no git klonējot esošo repo
 ``` markdown
